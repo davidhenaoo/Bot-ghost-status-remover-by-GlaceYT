@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["PLAYING","◞　join chihiro shop　𓏲　for prems & more ・　 ( ᴗ‸ᴗ )"];
 
 
 let currentIndex = 0;
